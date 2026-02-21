@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Victor Fernando Acuña | UX Designer & Security Specialist</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        :root { --primary: #1a73e8; --dark: #202124; --text: #3c4043; }
+        body { font-family: 'Inter', sans-serif; line-height: 1.6; margin: 0; color: var(--text); background: #f8f9fa; }
+        
+        /* Header con toque Google */
+        header { background: white; padding: 4rem 2rem; text-align: center; border-bottom: 1px solid #dadce0; }
+        .badge { background: #e8f0fe; color: var(--primary); padding: 0.5rem 1rem; border-radius: 20px; font-weight: bold; font-size: 0.9rem; display: inline-block; margin-bottom: 1rem; }
+        h1 { font-size: 2.5rem; color: var(--dark); margin: 0; }
+        .subtitle { font-size: 1.2rem; color: #5f6368; max-width: 600px; margin: 1rem auto; }
+
+        section { padding: 4rem 2rem; max-width: 900px; margin: auto; }
+        
+        /* Sección de Valor Único */
+        .value-proposition { display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; background: white; padding: 2rem; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); }
+        .value-card h3 { color: var(--primary); margin-top: 0; }
+
+        /* Proyectos */
+        .project-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; }
+        .project-card { background: white; border: 1px solid #dadce0; border-radius: 12px; overflow: hidden; transition: transform 0.3s; }
+        .project-card:hover { transform: translateY(-5px); box-shadow: 0 10px 20px rgba(0,0,0,0.1); }
+        .project-info { padding: 1.5rem; }
+        .btn { display: inline-block; padding: 0.8rem 1.5rem; background: var(--primary); color: white; text-decoration: none; border-radius: 6px; font-weight: bold; margin-top: 1rem; }
+
+        footer { background: var(--dark); color: white; text-align: center; padding: 3rem 2rem; }
+        .contact-info { font-size: 1.1rem; margin-bottom: 1rem; }
+    </style>
+</head>
+<body>
+
+    <header>
+        <div class="badge">Google Certified UX Designer</div>
+        <h1>Victor Fernando Acuña</h1>
+        <p class="subtitle">Diseño experiencias digitales intuitivas, accesibles y seguras, respaldadas por la metodología de Google y años de servicio público.</p>
+    </header>
+
+    <section id="why-me">
+        <div class="value-proposition">
+            <div class="value-card">
+                <h3>Metodología Google</h3>
+                <p>Aplico el proceso de <strong>Design Thinking</strong> de punta a punta: desde la empatía con el usuario hasta prototipos de alta fidelidad testeados.</p>
+            </div>
+            <div class="value-card">
+                <h3>Enfoque en Seguridad</h3>
+                <p>Mi formación como <strong>Técnico Superior en Seguridad Pública</strong> me permite diseñar interfaces pensando en la prevención de errores y la protección del usuario.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="projects">
+        <h2>Casos de Estudio</h2>
+        <div class="project-grid">
+            <div class="project-card">
+                <div class="project-info">
+                    <h3>Proyecto Destacado UX</h3>
+                    <p>Resolviendo problemas reales mediante investigación de usuarios y diseño centrado en la accesibilidad (A11y).</p>
+                    <a href="#" class="btn">Explorar Proyecto</a>
+                </div>
+            </div>
+            </div>
+    </section>
+
+    <footer>
+        <div class="contact-info">
+            <strong>¿Tenés un proyecto en mente?</strong><br>
+            Hablemos: 1166813990 | Guernica, Buenos Aires
+        </div>
+        <p>&copy; 2026 Fer Acuña | UX Designer & Specialist en Seguridad</p>
+    </footer>
+
+</body>
+</html>
