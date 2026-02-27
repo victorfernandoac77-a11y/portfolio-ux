@@ -1,24 +1,35 @@
-Interfaces Seguras y Centradas en el Usuario
+# Caso de Estudio UX: EstiloInmediato 👗⚡
+**Diseñador:** Victor Fernando Acuña (Fer)
+**Proyecto:** Certificado Profesional de Diseño de UX de Google
 
-¡Hola! Soy **Victor Fernando Acuña**. Mi pasión es transformar la complejidad en simplicidad, creando experiencias digitales que no solo cumplen objetivos, sino que generan confianza real en quien las usa. 
+## 🎯 El Problema
+Marta, una vecina de Guernica con poco tiempo libre, necesita renovar su vestidor de forma rápida y segura desde su celular. Le frustran las tiendas con procesos de pago lentos o donde es difícil encontrar el talle correcto, lo que la hace abandonar la compra por desconfianza.
 
-Utilizo la metodología del **Certificado Profesional de Google** para desarrollar soluciones de diseño integrales. Mi enfoque no se queda solo en lo visual; busco entender profundamente el comportamiento del usuario para ofrecerle comodidad y eficiencia en cada clic.
-Cuento con el título de **Técnico Superior en Seguridad Pública**. Más allá de un título académico, esta formación me brindó una estructura mental única para el mundo del Diseño UX:
+## 💡 Mi Solución: EstiloInmediato
+He diseñado una experiencia de compra móvil de alto rendimiento que prioriza la **agilidad** y la **prevención de errores**. Como **Técnico Superior en Seguridad Pública**, apliqué un enfoque de orden y validación constante para que el usuario se sienta protegido en cada clic.
 
-Mi formación me permite analizar escenarios críticos y diseñar flujos de usuario que previenen errores, garantizando entornos digitales seguros y confiables.
-Entiendo la importancia de los procesos estructurales. Aplico el **Design Thinking** con la disciplina necesaria para que cada proyecto sea sólido, escalable y profesional.
-* **Accesibilidad Universal (A11y)**: Diseño con una fuerte ética de servicio, asegurando que los productos sean inclusivos y funcionales para todas las personas, independientemente de sus capacidades.
+## 🗺️ Arquitectura y Flujo (Low-Fidelity)
+Decidí validar la lógica de navegación mediante wireframes analógicos para asegurar que el camino hacia la compra sea el más corto posible.
 
-### 🛠️ ¿Cómo podemos trabajar juntos?
-Me adapto a las necesidades de tu industria para crear productos que conecten con tu público, sin importar la ubicación geográfica:
+![User Flow del Proyecto](./whiteboard_20260227102553B.jpg)
+*(Nota: El nombre del archivo debe ser idéntico al que subiste a GitHub)*
 
-* **E-commerce & Servicios**: Optimización de procesos de compra y conversión.
-* **Prototipado Interactivo**: Diseños en Figma que podés probar antes de invertir en desarrollo.
-* **Investigación Estratégica**: Decisiones basadas en datos y necesidades reales del usuario.
+### Claves del diseño para la agilidad:
+* **Navegación Intuitiva:** El logo y las "X" siempre devuelven al inicio, eliminando la sensación de estar "atrapado" en una pantalla.
+* **Ergonomía Móvil (Thumb-Zone):** Los botones de "Añadir al Carrito" y "Pagar Ahora" están estratégicamente ubicados para ser accionados con el pulgar sin esfuerzo.
+* **Feedback Inmediato:** El carrito muestra el conteo de productos en tiempo real para evitar que el usuario tenga que entrar y salir de la pantalla para verificar su pedido.
+* **Soporte Directo:** Un botón flotante de WhatsApp humaniza la marca y resuelve dudas de talles o stock al instante.
+
+## 🕵️‍♂️ Auditoría Competitiva
+Comparé mi propuesta con líderes del mercado para encontrar oportunidades donde **EstiloInmediato** pueda destacar por su cercanía y eficiencia.
+
+| Característica | Grandes Plataformas | EstiloInmediato |
+| :--- | :--- | :--- |
+| **Atención** | Bots y tickets lentos. | **WhatsApp:** Soporte humano y local. |
+| **Proceso de Pago** | Formularios infinitos. | **3 Pasos:** Envío, Pago y Confirmación. |
+| **Búsqueda** | Resultados genéricos. | **Sugerencias:** Basadas en stock real local. |
+
 ---
-**¿Tenés un proyecto que necesita una visión técnica y profesional?**
-Hablemos. Me encantaría conocer tus objetivos y ver cómo podemos alcanzarlos con un diseño de alta calidad.
 
-📞 **WhatsApp Directo:** 1166813990
-💼 **Perfil:** UX Designer & Specialist en Seguridad Técnica
-
+### 🧠 Perspectiva de Seguridad
+Mi formación técnica me permite diseñar flujos de pago que no solo son rápidos, sino que transmiten seguridad visual. El paso de **"Resumen de Compra"** antes de pagar es vital para que el usuario valide su identidad y dirección, reduciendo errores operativos y aumentando la satisfacción final.
