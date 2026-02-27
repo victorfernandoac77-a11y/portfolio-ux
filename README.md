@@ -11,7 +11,7 @@ He diseñado una experiencia de compra móvil de alto rendimiento que prioriza l
 ## 🗺️ Arquitectura y Flujo (Low-Fidelity)
 Decidí validar la lógica de navegación mediante wireframes analógicos para asegurar que el camino hacia la compra sea el más corto posible.
 
-!![User Flow del Proyecto](./whiteboard_20260227102553B.jpg)
+​![User Flow EstiloInmediato](./whiteboard_20260227102553B.jpg)
 *(Nota: El nombre del archivo debe ser idéntico al que subiste a GitHub)*
 
 ### Claves del diseño para la agilidad:
